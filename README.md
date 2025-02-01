@@ -19,12 +19,12 @@ This **Pizza Sales Dashboard** is a comprehensive data analytics project designe
 ## 📊 Dashboard Preview
 
 
- **`dashboard.png`** 
+ `dashboard.png`
 
 ## 🎥 Project Walkthrough Video
 
 
-**`video.mp4`**
+`video.mp4`
 
 ## 📈 SQL Queries Highlights
 

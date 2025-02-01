@@ -15,12 +15,9 @@ This **Pizza Sales Dashboard** is a comprehensive data analytics project designe
 
 ## 📊 Dashboard Preview
 ![Pizza Sales Dashboard](./dashboard.png)
-*Ensure `dashboard.png` is in the same folder as this README for proper display.*
 
-## 🎥 Project Walkthrough Video
-You can watch the project walkthrough video here:
-[View Project Walkthrough Video](./video.mp4)
-*Place `video.mp4` in the same directory as the README for easy access.*
+## 🎥 Project Walkthrough GIF
+![Project Walkthrough](./video.gif)\
 
 ## 📈 SQL Queries Highlights
 ### A. KPI’s
@@ -108,7 +105,7 @@ LIMIT 5;
 ├── SQL_Queries.docx          # Contains all SQL queries
 ├── Dashboard.xlsx            # Excel dashboard with visualizations
 ├── dashboard.png             # Dashboard image (add this image)
-├── video.mp4                 # Project walkthrough video
+├── video.gif                 # Project walkthrough video
 └── README.md                 # Project documentation
 ```
 

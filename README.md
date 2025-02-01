@@ -17,7 +17,7 @@ This **Pizza Sales Dashboard** is a comprehensive data analytics project designe
 ![Pizza Sales Dashboard](./dashboard.png)
 
 ## 🎥 Project Walkthrough GIF
-![Project Walkthrough](./video.gif)\
+![Project Walkthrough](./video.gif)
 
 ## 📈 SQL Queries Highlights
 ### A. KPI’s

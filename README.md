@@ -18,6 +18,7 @@ This **Pizza Sales Dashboard** is a comprehensive data analytics project designe
 *Ensure `dashboard.png` is in the same folder as this README for proper display.*
 
 ## 🎥 Project Walkthrough Video
+You can watch the project walkthrough video here:
 [View Project Walkthrough Video](./video.mp4)
 *Place `video.mp4` in the same directory as the README for easy access.*
 

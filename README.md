@@ -19,12 +19,12 @@ This **Pizza Sales Dashboard** is a comprehensive data analytics project designe
 ## 📊 Dashboard Preview
 
 
- `dashboard.png`
+*Add your dashboard image to the repository folder and name it **`dashboard.png`** for this to display correctly.*
 
 ## 🎥 Project Walkthrough Video
 
 
-`video.mp4`
+*Add your project video to the repository and name it **`video.mp4`**. You can also add a **`video-thumbnail.png`** for a clickable preview.*
 
 ## 📈 SQL Queries Highlights
 

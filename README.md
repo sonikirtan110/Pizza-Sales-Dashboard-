@@ -110,8 +110,8 @@ LIMIT 5;
 ```
 
 ## 🔗 Check Out the Project
-[GitHub Repository](https://github.com/sonikirtan110/Pizza-Sales-Dashboard-/tree/main)
-[novypro Live Preview](https://project.novypro.com/C3taWT)
+- **Github Repository:**[GitHub Repository](https://github.com/sonikirtan110/Pizza-Sales-Dashboard-/tree/main)
+- **novypro Live Dashboard:**[novypro Live Preview](https://project.novypro.com/C3taWT)
 
 ## 🔍 Keywords for Visibility
 **#DataAnalytics #SQL #Excel #MySQL #Dashboard #PizzaSales #BusinessInsights #DataVisualization #PortfolioProject #ExcelDashboard #SQLQueries #DataAnalysis**
